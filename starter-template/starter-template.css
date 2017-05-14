@@ -1,0 +1,58 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 20px 40px 70px;
+  text-align: left;
+  background-color: #d9edf7;
+  margin-top: 50px;
+}
+p{
+  font-size: 18px;
+
+}
+.greeting{
+  margin-top: 100px;
+  /*margin-bottom: 500px;*/
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+img{
+  float: left;
+  margin: 0px 100px 10px 10px;
+  border: 5px solid rgba(5, 26, 175, 0.6);}
+  
+#main {
+  color: blue;
+}
+
+
+
+
+
+
+/* Customize container */
+/*@media (min-width: 768px) {*/
+  .container {
+    max-width: 800px;
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+
+h4{
+  margin-top: 50px;
+}
+.col-lg-6{
+  margin-buttom: 100px;
+}
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
